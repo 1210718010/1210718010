@@ -44,10 +44,12 @@ Here are some ideas to get you started:
 [![Gmail](https://img.shields.io/badge/dzb1211-%40gmail.com-fabd03?style=flat-square)](mailto:dzb1211@gmail.com)
 [![Zoho](https://img.shields.io/badge/i-%40muxmus.com-228b22?style=flat-square)](mailto:i@muxmus.com) 
 
-<img src="https://muxmus.com/img/pyro.svg" width = "30" height = "30" align=center />
-<img src="https://muxmus.com/img/hydro.svg" width = "30" height = "30" align=center />
-<img src="https://muxmus.com/img/anemo.svg" width = "30" height = "30" align=center />
-<img src="https://muxmus.com/img/electro.svg" width = "30" height = "30" align=center />
-<img src="https://muxmus.com/img/dendro.svg" width = "30" height = "30" align=center />
-<img src="https://muxmus.com/img/cryo.svg" width = "30" height = "30" align=center />
-<img src="https://muxmus.com/img/geo.svg" width = "30" height = "30" align=center />
+<br>
+
+<a href="https://ys.mihoyo.com/main/character/mondstadt?char=8"><img src="https://muxmus.com/img/pyro.svg" width = "40" height = "40" align=center /></a>
+<a href="https://ys.mihoyo.com/main/character/inazuma?char=6"><img src="https://muxmus.com/img/hydro.svg" width = "40" height = "40" align=center /></a>
+<a href="https://ys.mihoyo.com/main/character/inazuma?char=1"><img src="https://muxmus.com/img/anemo.svg" width = "40" height = "40" align=center /></a>
+<a href="https://ys.mihoyo.com/main/character/liyue?char=6"><img src="https://muxmus.com/img/electro.svg" width = "40" height = "40" align=center /></a>
+<a href="https://ys.mihoyo.com/main/character/sumeru?char=1"><img src="https://muxmus.com/img/dendro.svg" width = "40" height = "40" align=center /></a>
+<a href="https://ys.mihoyo.com/main/character/inazuma?char=0"><img src="https://muxmus.com/img/cryo.svg" width = "40" height = "40" align=center /></a>
+<a href="https://ys.mihoyo.com/main/character/liyue?char=15"><img src="https://muxmus.com/img/geo.svg" width = "40" height = "40" align=center /></a>
