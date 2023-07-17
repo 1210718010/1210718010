@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 [博客 / Blog](https://muxmus.com)
 
-### 联系我 / Contact me
+### 关注 / Follow
 
 [![QQ](https://img.shields.io/badge/%E6%9C%A8%E8%BE%9B%E6%9C%A8%E6%9D%89-d30d13?style=flat-square&logo=tencentqq&logoColor=ffffff)](https://qm.qq.com/cgi-bin/qm/qr?k=rAN0D35rucs2u-MGcaKEHeWCG9tpTPaE)
 [![Steam](https://img.shields.io/badge/1210718010-182551?style=flat-square&logo=steam&logoColor=ffffff)](https://steamcommunity.com/id/muxmus/)
