@@ -45,9 +45,9 @@ Here are some ideas to get you started:
 [![Zoho](https://img.shields.io/badge/i-%40muxmus.com-228b22?style=flat-square)](mailto:i@muxmus.com) 
 
 <img src="https://muxmus.com/img/pyro.svg" width = "30" height = "30" align=center />
-<img src="https://muxmus.com/img/hydro.png" width = "30" height = "30" align=center />
-<img src="https://muxmus.com/img/anemo.png" width = "30" height = "30" align=center />
-<img src="https://muxmus.com/img/electro.png" width = "30" height = "30" align=center />
-<img src="https://muxmus.com/img/dendro.png" width = "30" height = "30" align=center />
-<img src="https://muxmus.com/img/cryo.png" width = "30" height = "30" align=center />
-<img src="https://muxmus.com/img/geo.png" width = "30" height = "30" align=center />
+<img src="https://muxmus.com/img/hydro.svg" width = "30" height = "30" align=center />
+<img src="https://muxmus.com/img/anemo.svg" width = "30" height = "30" align=center />
+<img src="https://muxmus.com/img/electro.svg" width = "30" height = "30" align=center />
+<img src="https://muxmus.com/img/dendro.svg" width = "30" height = "30" align=center />
+<img src="https://muxmus.com/img/cryo.svg" width = "30" height = "30" align=center />
+<img src="https://muxmus.com/img/geo.svg" width = "30" height = "30" align=center />
