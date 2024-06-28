@@ -53,3 +53,4 @@ Here are some ideas to get you started:
 <a href="https://ys.mihoyo.com/main/character/inazuma?char=14" target="_blank"><img src="https://muxmus.com/img/dendro.svg" width = "40" height = "40" align=center /></a>
 <a href="https://ys.mihoyo.com/main/character/inazuma?char=0" target="_blank"><img src="https://muxmus.com/img/cryo.svg" width = "40" height = "40" align=center /></a>
 <a href="https://ys.mihoyo.com/main/character/fontaine?char=9" target="_blank"><img src="https://muxmus.com/img/geo.svg" width = "40" height = "40" align=center /></a>
+<img src="https://file.muxmus.com:5000/pixiv/87461089_p1.png" width = "1280" height = "720" align=center />
